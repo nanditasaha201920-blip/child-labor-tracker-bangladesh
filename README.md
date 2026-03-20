@@ -1,6 +1,8 @@
 # 🚸 Child Labor Tracker – Bangladesh
 
-## 📌 Project Overview
+##Live APP: https://child-labor-tracker-bangladesh-y8b9e48e7ezwi5yx8vmhie.streamlit.app/
+
+##📌 Project Overview
 
 Child Labor Tracker is an interactive data dashboard that analyzes child labor patterns across different regions of Bangladesh.
 
